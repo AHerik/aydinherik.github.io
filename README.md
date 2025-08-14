@@ -1,6 +1,6 @@
 # Aydin Herik — Personal site (GitHub Pages)
 
-This repository hosts my user site at **https://aydinherik.github.io**.
+This repository hosts my user site at **https://aydinherik.ca**.
 
 ## Structure
 - `index.html` — homepage
