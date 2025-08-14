@@ -1,6 +1,12 @@
-# Aydin Herik — Dark multipage site
+# Aydin Herik — Dark multipage site (v2)
 
-- Code: https://github.com/AydinHerik/aydinherik.github.io
-- Site: https://aydinherik.ca
+Changes from v1:
+- Removed About page/link
+- Brand text shows "Homepage"
+- Icon-only buttons for contact profiles
+- No purple visited links
+
+Code: https://github.com/AydinHerik/aydinherik.github.io
+Site: https://aydinherik.ca
 
 Updated: 2025-08-14
