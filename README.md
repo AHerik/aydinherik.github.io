@@ -1,12 +1,6 @@
-# Aydin Herik — Personal site (GitHub Pages)
+# Aydin Herik — Multi‑page site
 
-This repository hosts my user site at **https://aydinherik.ca**.
-
-## Structure
-- `index.html` — homepage
-- `assets/` — CSS/JS
-- `publications.json` — list of publications (controls Highlights when `"highlight": true`)
-- `projects.json` — projects for the Projects section
-- `html/` — placeholder for extra pages (kept with `.gitkeep`)
+This version splits content into subpages and keeps the homepage minimal.
+Drop a headshot at `assets/img/profile.jpg` (a placeholder is provided).
 
 Updated: 2025-08-14
