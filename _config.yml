@@ -1,3 +1,7 @@
-theme: minima
-title: Aydin Herik's website
-author: Aydin Herik
+# _config.yml 
+title: "Aydin Herik"
+description: "MD student | Multi-omics & GI research"
+plugins: []        
+theme: null       
+baseurl: ""        
+url: "https://aydinherik.github.io" 
