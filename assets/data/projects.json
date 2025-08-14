@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Single-cell analysis of Citrobacter rodentium host-pathogen response",
+    "summary": "Single-cell profiling of epithelial and immune trajectories during C. rodentium infection; focus on host-pathogen dynamics and protease networks.",
+    "role": "Lead analysis & study design",
+    "links": {
+      "code": "https://github.com/AydinHerik",
+      "preprint": ""
+    },
+    "tags": [
+      "single-cell",
+      "Citrobacter",
+      "host-pathogen",
+      "IBD"
+    ]
+  }
+]
