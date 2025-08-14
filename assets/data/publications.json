@@ -1,0 +1,121 @@
+[
+  {
+    "title": "In silico integrative scRNA analysis of human colonic epithelium indicates four tuft cell subtypes.",
+    "authors": "Herik AI, Sinha S, Arora R, Small C, Dufour A, Biernaskie J, Cobo ER, McKay DM.",
+    "venue": "Am J Physiol Gastrointest Liver Physiol",
+    "year": 2025,
+    "doi": "10.1152/ajpgi.00182.2024",
+    "pmid": "39589317",
+    "pdf": "",
+    "tags": [
+      "single-cell",
+      "colon",
+      "tuft cells",
+      "IBD"
+    ],
+    "abstract": "Integrative scRNA-seq across four datasets reveals four tuft cell subtypes (TC1–TC4) with distinct signatures and IBD-associated shifts.",
+    "highlight": true
+  },
+  {
+    "title": "Calcitonin gene-related peptide promotes epithelial reparative and anticolitic functions of IL-4 educated human macrophages.",
+    "authors": "Callejas BE, Sousa JA, Flannigan KL, Wang A, Higgins E, Herik AI, Li S, Rajeev S, Rosentreter R, Panaccione R, McKay DM.",
+    "venue": "Am J Physiol Gastrointest Liver Physiol",
+    "year": 2025,
+    "doi": "10.1152/ajpgi.00159.2024",
+    "pmid": "39378308",
+    "pdf": "",
+    "tags": [
+      "macrophage",
+      "CGRP",
+      "epithelial repair",
+      "IBD"
+    ],
+    "abstract": "CGRP enhances IL-4-educated macrophages’ reparative and anticolitic functions via COX-1/PGD2 signaling.",
+    "highlight": true
+  },
+  {
+    "title": "Cathelicidin regulates goblet cell mucus secretion and mucus-associated proteins in Citrobacter rodentium-induced colitis.",
+    "authors": "Mirzadzare N, Blyth GAD, Hannawayya R, Cirone KM, Kilari G, Lahiri P, Tan YL, Herik AI, Fu Y, Gorman H, Petri B, Chadee K, Cobo ER.",
+    "venue": "Gut Microbes",
+    "year": 2025,
+    "doi": "10.1080/19490976.2025.2538696",
+    "pmid": "40735968",
+    "pdf": "",
+    "tags": [
+      "cathelicidin",
+      "goblet cells",
+      "Citrobacter",
+      "mucus",
+      "ROS"
+    ],
+    "abstract": "LL-37 drives goblet cell secretion (TFF3, RELMβ) via ROS to support pathogen clearance in C. rodentium colitis.",
+    "highlight": true
+  },
+  {
+    "title": "GPx1 deficiency confers increased susceptibility to ferroptosis in macrophages from individuals with active Crohn's disease.",
+    "authors": "Sousa JA, Callejas BE, Wang A, Higgins E, Herik A, Andonian N, Yousuf M, Colarusso P, Raman M, McKay DM.",
+    "venue": "Cell Death Dis",
+    "year": 2024,
+    "doi": "10.1038/s41419-024-07289-y",
+    "pmid": "39695083",
+    "pdf": "",
+    "tags": [
+      "ferroptosis",
+      "macrophage",
+      "Crohn’s disease",
+      "GPx1"
+    ],
+    "abstract": "CD monocyte-derived macrophages exhibit H2O2-induced ferroptosis vulnerability linked to reduced GPx1.",
+    "highlight": false
+  },
+  {
+    "title": "Host innate immune responses and microbiome profile of neonatal calves challenged with Cryptosporidium parvum and the effect of bovine colostrum supplementation.",
+    "authors": "Gamsjäger L, Cirone KM, Schluessel S, Campsall M, Herik A, Lahiri P, Young D, Dufour A, Sapountzis P, Otani S, Gomez DE, Windeyer MC, Cobo ER.",
+    "venue": "Front Cell Infect Microbiol",
+    "year": 2023,
+    "doi": "10.3389/fcimb.2023.1165312",
+    "pmid": "37207189",
+    "pdf": "",
+    "tags": [
+      "cryptosporidium",
+      "microbiome",
+      "proteomics",
+      "metagenomics"
+    ],
+    "abstract": "C. parvum causes neutrophilic enterocolitis with dysbiosis; colostrum partially modulates host and microbiota responses.",
+    "highlight": false
+  },
+  {
+    "title": "Spatial and Single-Cell Transcriptomics Reveal that Oncofetal Reprogramming of Fibroblasts Is Associated with Malignant Degeneration of Burn Scar.",
+    "authors": "Sinha S, Arora R, Kutluberk E, Verly M, Small C, Herik A, Burnett L, Cao L, Manoharan VT, Chockalingam K, van der Vyver M, Ponjevic D, Sparks HD, Morrissy S, Harrop AR, Brenn T, Nikolic A, Temple-Oberle C, Rosin N, Gabriel V, Biernaskie J.",
+    "venue": "J Invest Dermatol",
+    "year": 2025,
+    "doi": "10.1016/j.jid.2024.07.022",
+    "pmid": "39128494",
+    "pdf": "",
+    "tags": [
+      "spatial transcriptomics",
+      "single-cell",
+      "fibroblasts",
+      "oncology"
+    ],
+    "abstract": "Oncofetal fibroblast reprogramming marks malignant degeneration in burn scar by spatial + single-cell profiling.",
+    "highlight": false
+  },
+  {
+    "title": "BURN-OP: A screening tool for identifying a symptomatically distinct cluster of burn patients with the greatest healthcare needs at discharge.",
+    "authors": "Sinha S, Small C, Guo E, Verly M, Arora R, Herik A, Jonsson EL, Harrop AR, Biernaskie J, Temple-Oberle C, Gabriel V.",
+    "venue": "Burns",
+    "year": 2025,
+    "doi": "10.1016/j.burns.2024.08.024",
+    "pmid": "39522136",
+    "pdf": "",
+    "tags": [
+      "machine learning",
+      "rehabilitation",
+      "burns"
+    ],
+    "abstract": "Unsupervised clustering defines high-need burn patient subgroup; BURN-OP prospectively identifies them at discharge.",
+    "highlight": false
+  }
+]
