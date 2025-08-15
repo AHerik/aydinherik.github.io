@@ -1,12 +1,8 @@
-# Aydin Herik — Dark multipage site (v2)
+# Aydin Herik — Dark multipage site (v3)
 
-Changes from v1:
-- Removed About page/link
-- Brand text shows "Homepage"
-- Icon-only buttons for contact profiles
-- No purple visited links
+- Official glyphs for Email, ORCID, GitHub, LinkedIn (removed Scholar & ResearchGate)
+- Mobile-friendly nav with hamburger (no horizontal scroll)
+- Highlights section at the top + list ordered with highlights first
+- Responsive grids (no sideways scroll)
 
-Code: https://github.com/AydinHerik/aydinherik.github.io
-Site: https://aydinherik.ca
-
-Updated: 2025-08-14
+Updated: 2025-08-15
